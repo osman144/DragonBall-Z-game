@@ -20,7 +20,7 @@ $('#userChoice .col-md-12 .warrior').click(function(){
                 $('#enemiesAvailable img.warrior').click(function(){
                     if(warriors[i]=this){
                         $('#defender').append(warriors[i]);
-                        //$('#enemiesAvailable').hide();
+                        $('#enemiesAvailable').hide();
 
                         if(warriors[i]=this){
                         $(warriors[i].removeClass("redBorder").addClass("yellowBorder"))
