@@ -1,0 +1,18 @@
+body{
+    background-image: url("../images/kai.jpg")
+}
+
+
+.redBorder {
+
+	border-color: red;
+	border-style: solid;
+	border-width: 10px;
+}
+
+.yellowBorder {
+	border-color: yellow;
+	border-style: solid;
+	border-width: 10px;
+
+}
