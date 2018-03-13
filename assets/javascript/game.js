@@ -36,11 +36,11 @@ $('#userChoice .col-md-12 .warrior').click(function(){
 //Calculate battle, attack
 
 //Scoring section
-var pointsIncrementUser=8; 
-var initialPoints = 8;
-var pointsIncrementEnemy= 25;
-var pointsUser= 120; //beginning HP
-var pointsEnemy=180; //beginning HP
+let pointsIncrementUser=8; 
+let initialPoints = 8;
+let pointsIncrementEnemy= 25;
+let pointsUser= 120; //beginning HP
+let pointsEnemy=180; //beginning HP
 	
 
  	  $('#attack').click(function(){
